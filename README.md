@@ -1,4 +1,4 @@
-![logo]([Best Video Games to Try for Bookish People.png](https://github.com/bevvee/bevvee/blob/main/Best%20Video%20Games%20to%20Try%20for%20Bookish%20People.png?raw=true))
+![logo](https://github.com/bevvee/bevvee/blob/main/Best%20Video%20Games%20to%20Try%20for%20Bookish%20People.png?raw=true)
 <h1 align="center">Hi 👋, I'm Mohammed amine Elaazzouzi</h1>
 <h3 align="center">A Software Engineer from Morocco</h3>
 
