@@ -1,4 +1,4 @@
-![logo](https://github.com/bevvee/bevvee/blob/main/Best%20Video%20Games%20to%20Try%20for%20Bookish%20People.png?raw=true)
+![logo](https://github.com/bevvee/bevvee/blob/main/Dark%20Blue%20Holographic%20Twitter%20Header.png)
 
 
 <h1 align="center">Hi 👋, I'm Mohammed Amine Elaazzouzi</h1>
