@@ -15,13 +15,9 @@
 <p align="left">
   
 <span align="left"> <a href="https://twitter.com/bevvee_1" target="blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&style=for-the-badge" alt="bevvee" /></a> </span>
-
 <span align="left"> <a href="mailto:azouzim111@gmail.com" target="blank" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=for-the-badge" alt="bevvee" /></a> </span>
-
 <span align="left"> <a href="https://discord.gg/bevvee_1" target="blank" ><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&style=for-the-badge" alt="bevvee" /></a> </span>
-
 <span align="left"> <a href="https://instagram.com/bevvee_1" target="blank" ><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&style=for-the-badge" alt="bevvee" /></a> </span>
-
 <span align="left"> <a href="https://linkedin.com/in/medelaazzouzi" target="blank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=for-the-badge" alt="bevvee" /></a> </span>
 </p>
 
