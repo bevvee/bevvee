@@ -28,4 +28,4 @@
 <p></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bevvee&show_icons=true&locale=en" alt="bevvee" /></p>
 
-<span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=boycka&" alt="boycka" /></span>
+<span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bevvee&" alt="bevvee" /></span>
