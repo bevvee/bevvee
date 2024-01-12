@@ -53,6 +53,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bevvee&show_icons=true&locale=en&layout=compact" alt="bevvee" /></p>
 <p></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bevvee&show_icons=true&locale=en" alt="bevvee" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bevvee&show_icons=true&locale=en&layout=compact" alt="bevvee" /></p>
 
-<span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bevvee&" alt="bevvee" /></span>
