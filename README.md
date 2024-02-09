@@ -51,7 +51,7 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bevvee&show_icons=true&locale=en&layout=compact" alt="bevvee" /></p>
-<p></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bevvee&show_icons=true&locale=en&layout=compact" alt="bevvee" /></p>
+<p>
+  <img src="https://myreadme.vercel.app/api/embed/bevvee?panels=userstatistics,toplanguages,toprepositories" alt="reimaginedreadme" />
+</p>
 
