@@ -1,4 +1,4 @@
-![logo](https://github.com/bevvee/bevvee/blob/main/Dark%20Blue%20Holographic%20Twitter%20Header.png)
+![logo](https://github.com/bevvee/bevvee/blob/main/DDQSD.png)
 
 
 <h1 align="center">Hi 👋, I'm Mohammed Amine Elaazzouzi</h1>
