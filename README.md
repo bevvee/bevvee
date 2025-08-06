@@ -22,3 +22,8 @@
      
   </table>
 </div>
+
+# 📈 My GitHub Contributions
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bevvee&theme=github-compact" alt="Contribution Graph" />
+</div>
