@@ -16,14 +16,9 @@
       </td>
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=bevvee&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bevvee&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bevvee&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
       </td>
     </tr>
      
   </table>
-</div>
-
-# 📈 My GitHub Contributions
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bevvee&theme=github-compact" alt="Contribution Graph" />
 </div>
