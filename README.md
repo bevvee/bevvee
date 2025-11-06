@@ -1,4 +1,4 @@
-![logo](https://github.com/bevvee/bevvee/blob/main/DDQSD.png)
+![logo](https://github.com/bevvee/bevvee/blob/main/ba.png)
 
 
 <h1 align="center">Hi 👋, I'm Mohammed Amine Elaazzouzi</h1>
