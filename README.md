@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm <strong>Mohammed Amine Elaazzouzi</strong></h1>
 <!-- <h3 align="center">💻 Software Engineer from Morocco 🇲🇦</h3> -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Full-Stack+Web+%26+Mobile+Developer;AI+%26+Machine+Learning+Engineer;Building+Scalable+Solutions;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Full-Stack+Web+%26+Mobile+Developer;Building+Scalable+Solutions;Always+Learning+New+Technologies" alt="Typing SVG" />
 </div>
 
 
