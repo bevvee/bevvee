@@ -31,7 +31,7 @@ main_stack:
   frontend: Angular / React / TypeScript
   mobile: React Native
   architecture: Microservices / REST APIs / JWT
-  devops: Docker / AWS / Terraform / CI/CD
+  devops: Docker / AWS / Terraform / CI/CD / Kubernetes
 ```
 
 ---
